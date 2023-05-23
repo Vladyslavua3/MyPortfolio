@@ -9,14 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@react-three/drei": "^9.68.6",
+    "@react-three/fiber": "^8.13.0",
     "@types/node": "20.2.0",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.2",
-    "next": "13.4.2",
+    "framer-motion": "^10.12.13",
+    "maath": "^0.5.3",
+    "next": "^13.4.4-canary.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-tilt": "^1.0.2",
+    "react-vertical-timeline-component": "^3.6.0",
+    "styled-components": "^6.0.0-rc.1",
+    "three": "^0.152.2",
     "typescript": "5.0.4"
   }
 }
